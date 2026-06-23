@@ -1,2 +1,6 @@
 .venv/
 __pycache__/
+
+# Local curriculum reference (not source)
+fde-campaign*.html
+fde-field-manual.html
